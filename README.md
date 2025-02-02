@@ -23,3 +23,8 @@ Clone this repository or download the index.html, styles.css,yes_style.css,yes_p
 Open the Project:
 
 Open the index.html file in your web browser.
+
+A Note on Code Usage
+
+While I am happy to share this project, I encourage you to use it as inspiration. If you use this code as a base for your own project, please give credit where it's due. A simple shoutout or link back to this repository is appreciated!
+
