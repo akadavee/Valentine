@@ -11,3 +11,11 @@ Features:
 
 Interactive Buttons: The "No" button cycles through , while the "Yes" button grows in size.
 Responsive Design: The webpage is designed to work on all screen sizes.
+
+How to Use
+
+Download the Files:
+Clone this repository or download the index.html, styles.css,yes_style.css,yes_page.html and script.js files.
+
+Open the Project:
+Open the index.html file in your web browser.
